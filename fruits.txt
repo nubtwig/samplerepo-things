@@ -2,3 +2,4 @@ apples
 berries
 cherries
 new fruit
+new fruit on feature1
